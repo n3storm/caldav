@@ -1,4 +1,0 @@
-vobject
-lxml
-nose
-coverage
